@@ -57,7 +57,7 @@ Uncomment the corresponding line and run `run.py` to train the contact generator
 run_train_posa()
 ```
 
-#### Generating
+#### Generation
 
 After training the pose generator and contact generator, you can use the trained model during the generation. Uncomment the corresponding line and run `run.py` to run the generation: 
 
