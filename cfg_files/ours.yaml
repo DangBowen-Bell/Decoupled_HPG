@@ -1,10 +1,10 @@
 #! ******************************************************************************************
 
 init_poses_ours: 1
-posevae_cfg: '9_none'
+posevae_cfg: 'pose'
 
 use_control: 1
-train_cfg_name: 'release'
+train_cfg_name: 'contact'
 
 init_points_ours: 1
 init_points_step: 15

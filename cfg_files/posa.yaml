@@ -1,7 +1,7 @@
 #! ******************************************************************************************
 
 init_poses_ours: 1
-posevae_cfg: '9_none'
+posevae_cfg: 'pose'
 
 use_control: 0
 train_cfg_name: ''

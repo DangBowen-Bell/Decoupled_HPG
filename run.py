@@ -75,12 +75,10 @@ def run_affordance(cfg, debug=False):
 
 
 if __name__ == '__main__':    
-    #! train contact generator
-    # under /posa_training/{train_cfg_name}
-    run_train_posa()
+    #! train contact generator: /posa_training/{train_cfg_name}
+    # run_train_posa()
     
-    #! pose generation
-    # under /posa_release/{cfg_name}
+    #! pose generation: /posa_release/{cfg_name}
     # run_affordance('posa_debug', debug=True)
     # run_affordance('cposa_debug', debug=True)
     # run_affordance('ours_debug', debug=True)
