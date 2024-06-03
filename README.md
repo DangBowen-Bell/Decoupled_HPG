@@ -41,6 +41,7 @@ Before running the code, you need to download the following data:
 - [AMASS](https://amass.is.tue.mpg.de/) dataset.
 - [BABEL](https://babel.is.tue.mpg.de/) semantic annotations for AMASS motions.
 - [POSA](https://posa.is.tue.mpg.de/) dataset.
+- [PORX-S](https://github.com/zkf1997/COINS) dataset.
 - [SMPL-X](https://smpl-x.is.tue.mpg.de/) human body model.
 - [Matterport3D](https://niessner.github.io/Matterport/) scene dataset.
 - [MP3D-R](https://github.com/yz-cnsdqz/PSI-release) SDF extentions for Matterport3D scenes.
