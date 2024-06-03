@@ -39,6 +39,7 @@ This code respository is mainly based on POSA, please refer to [this](https://gi
 Before running the code, you need to download the following data:
 
 - [AMASS](https://amass.is.tue.mpg.de/) dataset.
+- [BABEL](https://babel.is.tue.mpg.de/) semantic annotations for AMASS motions.
 - [POSA](https://posa.is.tue.mpg.de/) dataset.
 - [SMPL-X](https://smpl-x.is.tue.mpg.de/) human body model.
 - [Matterport3D](https://niessner.github.io/Matterport/) scene dataset.
